@@ -1,0 +1,672 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le dragon missionaire, or, The dragoon turn'd apostle being a dialaogue between a French Protestant-gentleman, and a French dragoon, wherein the new-way of convverting hereticks by dragoons is very lively and truly represented : to which is annexed a letter of Monsieur Jurieu to a French gentleman of quality, upon his dragonary conversion / translated out of the original French ; suppressed in the the late reign, but now re[pr?]inted ...</title>
+            <author>Jurieu, Pierre, 1637-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87434</idno>
+            <idno type="STC">Wing J1201</idno>
+            <idno type="STC">ESTC R43871</idno>
+            <idno type="EEBO-CITATION">42475748</idno>
+            <idno type="OCLC">ocm 42475748</idno>
+            <idno type="VID">151198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2249:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Le dragon missionaire, or, The dragoon turn'd apostle being a dialaogue between a French Protestant-gentleman, and a French dragoon, wherein the new-way of convverting hereticks by dragoons is very lively and truly represented : to which is annexed a letter of Monsieur Jurieu to a French gentleman of quality, upon his dragonary conversion / translated out of the original French ; suppressed in the the late reign, but now re[pr?]inted ...</title>
+                  <author>Jurieu, Pierre, 1637-1713.</author>
+               </titleStmt>
+               <extent>[2], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1686?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Pierre Jurieu by Wing (2nd ed.)</note>
+                  <note>Date of publication from Wing (2nd ed.)</note>
+                  <note>Imperfect: tightly bound, and with print show-through; cropped, with loss of imprint(?), and part of text from t.p.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution --  France --  Early works to 1800.</term>
+               <term>Dragonnades.</term>
+               <term>Anti-Catholicism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151198:1" rendition="simple:additions"/>
+            <p>
+               <hi>LE DRAGON MISSIONAIRE:</hi> OR, THE DRAGOON TURN'D APOSTLE. BEING A DIALOGUE BETWEEN A <hi>French Proteſtant-Gentleman,</hi> and a <hi>French Dragoon:</hi> WHEREIN The New-Way of <hi>Converting HERETICKS</hi> by <hi>DRAGOONS</hi> Is very Lively and Truly Repreſented. To which is Annexed A LETTER OF <hi>MONSIE<g ref="char:V">Ʋ</g>R J<g ref="char:V">Ʋ</g>RIE<g ref="char:V">Ʋ</g>,</hi> To a FRENCH GENTLEMAN of <hi>Quality,</hi> Upon His DRAGONARY CONVERSION.</p>
+            <p>
+               <hi>Tranſlated out of the Original French.</hi>
+            </p>
+            <p>
+               <hi>Suppreſſed in the Late Reign but now Reprinted <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:151198:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:151198:2" rendition="simple:additions"/>
+            <head>THE <hi>MISSIONARY DRAGOON;</hi> OR, DRAGOON Turn'd APOSTLE.</head>
+            <sp>
+               <speaker>Dra<g ref="char:EOLhyphen"/>gon,</speaker>
+               <p>I Give you a Good.morrow, Sir, and am your moſt humble Servant; I have Orders from the King, together with my Comrades, to Viſit you, and to exhort you in his Name to become a good <hi>Catholick,</hi> and to re<g ref="char:EOLhyphen"/>concile your ſelf to the <hi>Roman Catholick Church,</hi> from which you have ſo un<g ref="char:EOLhyphen"/>juſtly ſeparated your ſelf, for to embrace a Religion, which an Age ago, was not in being; and which never had any other Fathers beſides a company of mi<g ref="char:EOLhyphen"/>ſerable, <hi>Apostates:</hi> And in caſe you refuſe to comply with this Propoſal, we are further Impowred to live with you at Diſcretion, and to conſume and devour all that belongs to you, to the very Walls and Timber of your Caſtle.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman,</speaker>
+               <p>I will not ſay you are very Welcom, foraſmuch as you are charged with ſuch a ſevere Commiſſion; I ſhall only tell you, that I cannot, neither have I the leaſt thoughts to oppoſe my ſelf againſt his Majeſty's Or<g ref="char:EOLhyphen"/>ders, who may diſpoſe of my Goods and Eſtates, yea of my Body alſo, ac<g ref="char:EOLhyphen"/>cording as it ſhall ſeem good unto him: Wherefore, Sir, I here abandon my Houſe and Goods to your mercy, make waſte and devour as pleaſes you beſt: I have but one Favour to beg at your hands, which is, that you would permit me to leave you abſolute Maſters of my Houſe, and by re<g ref="char:EOLhyphen"/>tiring my ſelf to give you the free and peaceable poſſeſſion of it.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>What? Sir, Do you refuſe then to obey his Majeſty, who deſires no<g ref="char:EOLhyphen"/>thing but your Good and Welfare both temporal and eternal? He requires nothing of you but your Converſion; and you need only to ſay, that you are willing to become a <hi>Roman Catholick,</hi> and you have ſatisfied him, and we ſhall be oblig'd to diſlodge and leave you at your liberty,</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I am willing to believe that the King is animated with abundance of Zeal for the Salvation of his Subjects; but I cannot believe that he deſires I ſhould Damn my ſelf, at the ſame time he is ſo zealous to ſave me: He is too-clear ſighted to be ignorant that whatſoever is done againſt a man's Conſci<g ref="char:EOLhyphen"/>ence,
+<pb n="2" facs="tcp:151198:3"/>is a great ſin. Neither can I perſwade my ſelf, that he deſigns to make a company of <hi>Hypocritical Catholicks;</hi> For if I, in the condition I find my ſelf, ſhould turn <hi>Roman Catholick,</hi> I ſhould commit that which my Conſcience re<g ref="char:EOLhyphen"/>preſents to me as a moſt enormous and crying Sin; and at the beſt, I ſhould be no more than a <hi>Counterfeit Catholick,</hi> who as oft as he ſhould go to <hi>Maſs,</hi> could do no other than deteſt it, together with the <hi>Idol</hi> therein Adored. And do you think the King would be well-pleaſed to have that which he eſteems his <hi>God,</hi> and which is the higheſt <hi>Object</hi> of his <hi>Adoration,</hi> to be thus continu<g ref="char:EOLhyphen"/>ally <hi>blaſphemed?</hi> Once more, Sir, therefore I beg of you, to give me leave to re<g ref="char:EOLhyphen"/>tire my ſelf, and to leave you ſole Maſters here.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>You ſpeak too boldly, Sir, concerning the Religion of your <hi>Soveraign;</hi> how dare you treat him with the Title of <hi>Idolater,</hi> that is in plain terms, a Damn'd Perſon, for <hi>Idolaters ſhall not inherit the Kingdom of Heaven.</hi> Pray, Sir, be a little more cautious, and conſider that you ſpeak to <hi>Dragons;</hi> that is, to the <hi>zealous Miſſionaries</hi> for your Converſion: but don't go about to deprive us of your dear preſence, for the King commands us to oblige you to keep us good and faithful company, as long as we ſtay in your Houſe, and we intend to continue there, as long as there's any thing for us to ſpend and live upon; yea, what is more, till you have Declared and Signed that you are willing to become a <hi>Roman Catholick.</hi> Think therefore ſeriouſly of your Salvation, and of diſcharging Us as ſoon as may be; <hi>Obſtinacy</hi> is the ſole and diſtinguiſhing Character of <hi>Hereſie;</hi> pray, Sir, don't you fall into it, nor oblige us to puniſh you for it.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I would with all my heart I could do what you exhort me to, without offending <hi>God,</hi> or wounding my own <hi>Conſcience.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>The King requires not that you ſhould wound your <hi>Conſcience,</hi> when He wiſhes you to become a <hi>Catholick,</hi> for he wills at the ſame time that the <hi>Truth</hi> be cleared up to you, and that all the Doubts and Scruples which trou<g ref="char:EOLhyphen"/>ble your Conſcience, be taken away: But withal, you muſt keep your ſelf in a teachable Frame, and not wrangle about Nicities, as your Miniſters do, who never will give way, nor grant any thing. Are you willing, Sir, that we ſend for a good <hi>Monk,</hi> who is not far off, and is able to remove and anſwer all your Scruples? He is a Reverend Father, of the Order of the <hi>Bare-foot Carme<g ref="char:EOLhyphen"/>lites,</hi> and is known by the Name of <hi>Father Cherubin,</hi> becauſe of his <hi>Charity, Purity,</hi> and <hi>Angelical Knowledge.</hi> Indeed he cannot chooſe but be a moſt able man, for he underſtands the <hi>Arabick</hi> and the <hi>Perſian Languages</hi> to a Miracle, and has long ſince (as 'tis ſaid) converted thouſands of <hi>Mahometans</hi> to the <hi>Chriſtian Religion:</hi> He'l relate to you an infinite number of Miracles wrought by vertue of the <hi>Holy Scapulary,</hi> which you may receive from his hands, and with it enjoy all the Priviledges and Immunities of that <hi>Holy Order.</hi>
+               </p>
+            </sp>
+            <pb n="3" facs="tcp:151198:3"/>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I beſeech you, Sir, ſend for no <hi>Monks</hi> to my Houſe, for they are all perfect <hi>Viſionaries</hi> and ignorant Fellows: And you, Sir, who ſo highly commend the <hi>Scapulary,</hi> do you wear one your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>No, Sir, for ſeeing it muſt be always worn next one's Skin, I ſhould fear leaſt Vermine and the Order might breed in it, and infect my Body, which, to tell you the truth, is not too ſound already. And be<g ref="char:EOLhyphen"/>ſides I love not many Vocal Prayers, and Faſting much leſs; neither do I give any great Credit to all thoſe Miracles which are told in fa<g ref="char:EOLhyphen"/>vour of the <hi>Holy Scapulary:</hi> I have known a Captain of <hi>Dragons</hi> who wore it continually, and attributed to it the Vertue of having ſaved him from many Dangers: Upon a time when he was in the Trenches, and ex<g ref="char:EOLhyphen"/>horting one of his Comrades to take it on the firſt occaſion, a Muſquet<g ref="char:EOLhyphen"/>ſhot from the Enemy pierc'd him through and through, and drove part of the <hi>Scapulary</hi> into his Heart, ſo that he died upon the place; But how<g ref="char:EOLhyphen"/>ever it's likely that the <hi>Scapulary,</hi> or its Shade, accompanied him into the other World, and afforded him the priviledge of not continuing any longer in <hi>Purgatory</hi> than the next Saturday after. Well, Sir, ſince you do not affect <hi>Monks,</hi> we will take care you ſhall be inſtructed by a Learned <hi>Jeſuit,</hi> whom we'l ſend for, if you think good.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I don't fancy the <hi>Jeſuits</hi> any more than the <hi>Carmelites;</hi> And if I muſt needs be inſtructed (tho' I do not ſee my ſelf to ſtand in need of it) I find you knowing enough in theſe matters for me to confer with; and the Complement you made me at your firſt entrance, makes me ſuſpect you may be ſome <hi>Monk</hi> or <hi>Jeſuit</hi> in the Diſguiſe of a <hi>Dragon,</hi> and that to the end you might not fright us <hi>Protestants</hi> too much, who cannot bear the ſight of a <hi>Monk</hi> in his Cowle, without believing him a Devil in Maſ<g ref="char:EOLhyphen"/>querade. Thoſe good Fathers, you know, are <hi>Omnis homo,</hi> they become all to all, and put themſelves into what Figure or Diſguiſe you pleaſe, the better to act their part, in returning to the Boſom of the <hi>Holy Mother Church,</hi> and reuniting to her, the Children ſhe had loſt. Pray tell me frankly, Sir, Are not you a counterfeit <hi>Dragon,</hi> but a true <hi>Jeſuit?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Not in the leaſt; tho' to tell you the truth, I have been worſe than a <hi>Jeſuit.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>How ſo, I pray?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I have been for ſome years a <hi>Proponent</hi> or <hi>Candidate</hi> for the <hi>Ministry;</hi> but having found, after a diligent Application of my ſelf to the Study of <hi>Controverſies,</hi> that both the <hi>Proponentiſme</hi> and <hi>Ministry</hi> of the <hi>Pretended Re<g ref="char:EOLhyphen"/>formed Religion,</hi> were but a meer Vanity and prepoſſeſſion of Spirit; and above all, a thing very pernicious to the <hi>Church,</hi> whoſe Peace they di<g ref="char:EOLhyphen"/>ſturb with a thouſand frivolous Diſputes, which deſtroy the very <hi>Eſſence</hi>
+                  <pb n="4" facs="tcp:151198:4"/>of <hi>Religion;</hi> viz. <hi>Piety and Charity.</hi> In a word, having found that <hi>Pro<g ref="char:EOLhyphen"/>teſtantiſme</hi> had none of the beſt Principles, I turn'd <hi>Catholick,</hi> and became a <hi>Souldier,</hi> ſuppoſing that in this ſtation I ſhould prove more uſeful to my King and Country, than in acting a <hi>Preacher,</hi> and bolſtering up the people in an Error. This makes me ſtill retain a ſmatch of thoſe things that formerly were my ſtudy and employ.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Since it is ſo, we have no need of <hi>Monks</hi> nor <hi>Priests;</hi> foraſmuch as you cannot but know, better than they, what the things are which pinch <hi>Protestants</hi> moſt, and is the very <hi>Remora</hi> of their Converſion.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>It is true what you ſay, Sir, only I have forgot to diſpute in <hi>Mood</hi> and <hi>Figure,</hi> as a <hi>Sorbonist</hi> or <hi>Father Jeſuit</hi> might do.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>All the better for that; theſe modal Argumentators, and men of Syllogiſms confound all with their <hi>Sophistry, Ergoings,</hi> and <hi>Distinctions:</hi> And indeed, for the moſt part, they are no better than meer <hi>Pedants,</hi> and inſupportable to all <hi>ingenious men.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Be it ſo; However (ſince you put me upon it) I will endeavour to prove that you ought to become a <hi>Catholick,</hi> and that with this <hi>Syllo<g ref="char:EOLhyphen"/>giſme:</hi> If your <hi>Ancestors</hi> did without juſt ground ſeparate themſelves from the <hi>Romiſh Church,</hi> then it is your duty to return to her again. But your <hi>Ancestors</hi> have without juſt grounds ſeparated themſelves: There<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I defie the whole <hi>Sorbonne,</hi> and the Gentlemen of <hi>Port Royal,</hi> to ar<g ref="char:EOLhyphen"/>gue more exactly. I perceive now it will go very hard with me, and that I muſt prepare my ſelf for a very rude Shock, who have to deal with a <hi>Dragon,</hi> and a <hi>Proponent</hi> converted, both at once; but Patience, in an<g ref="char:EOLhyphen"/>ſwer to your <hi>Syllogiſme.</hi> I ſay, that my <hi>Ancestors</hi> had great reaſon to ſe<g ref="char:EOLhyphen"/>parate themſelves from <hi>Rome,</hi> foraſmuch as they ſaw, they could not be ſa<g ref="char:EOLhyphen"/>ved in caſe they continued in her <hi>Communion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>We muſt never ſeparate our ſelves from the <hi>true Church</hi> upon any pretext whatſoever; for without the <hi>Church</hi> here is no <hi>Salvation:</hi> And the <hi>Church of Rome</hi> is this <hi>true Church,</hi> foraſmuch as ſhe alone hath been always viſible, and the moſt extended and comprehenſive of all others. Now it is apparent that the <hi>true Church</hi> muſt needs be the moſt <hi>viſible</hi> and moſt <hi>extended</hi> of all others that are called <hi>Christian.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I don't ſee but that the <hi>Greek Church</hi> is every whit as <hi>comprehenſive</hi> as the <hi>Romiſh Church,</hi> and hath in all times-been as <hi>viſible</hi> as it. But where have you learnt that the <hi>true Church</hi> muſt always be <hi>viſible</hi> and moſt <hi>comprehenſive?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Of St. <hi>Augustin,</hi> where he Diſputes againſt the <hi>Donatists.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Don't you know that St. <hi>Augustin</hi> was a man, as you and I, ſubject
+<pb n="5" facs="tcp:151198:4"/>to Error; and that he himſelf elſewhere exhorteth us to give heed to no other <hi>Authority</hi> beſides that of the <hi>Divine Scriptures?</hi> And you who are ſo ready to jump with him in this Point, would you be as willing to <hi>believe</hi> with him, <hi>That Infants dying without Baptiſm, and without the Communion of the Body and Blood of Christ, are damned as much as the Devils themſelves and Reprobates?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>No ſurely, but however it muſt be granted, that without the <hi>Church</hi> there is no <hi>Salvation;</hi> and conſequently the ſame muſt needs be always <hi>viſible,</hi> that men in all times may enter into <hi>Communion</hi> with it, and ſo be <hi>ſaved.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>The Scripture no where ſaith ſo: It is without <hi>Jeſus Christ</hi> that there is no <hi>Salvation;</hi> And as for the <hi>Church,</hi> true it is, That we are to enter into <hi>Communion</hi> with it, but that is, when we can ſee and find it; and all thoſe whom the <hi>true Church</hi> doth caſt out of her <hi>Communion</hi> upon juſt grounds, are in a <hi>ſtate of damnation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>What? Sir, Will you ſuppoſe then that the <hi>Church of God</hi> can pe<g ref="char:EOLhyphen"/>riſh and ceaſe upon Earth?</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>By no means, for <hi>Jeſus Christ</hi> will always have <hi>his faithful Ones to the end of the World;</hi> yet that hinders not but they may be oft hid from the Eyes of men and unknown to them.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>How is it poſſible then, that men in all times ſhould be <hi>ſaved?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>By means of the <hi>Goſpel,</hi> which the <hi>Divine Providence</hi> will take care ſhall be preſerved upon Earth <hi>till the end of the World;</hi> and by the owning of thoſe <hi>Christian Truths,</hi> in which all <hi>Christians</hi> do agree.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>You are very ſubtile; but in the mean time you cannot deny but that your <hi>Church</hi> and <hi>Religion</hi> are but of <hi>Yesterday,</hi> ſince they were never heard of in the World before <hi>Luther</hi> and <hi>Calvin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Pray be pleaſed to look upon this Book, open it and read it.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Why? This is the <hi>New Testament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>And there, Sir, you have the <hi>Authors</hi> of my <hi>Church</hi> and of my <hi>Reli<g ref="char:EOLhyphen"/>gion;</hi> I hold it from <hi>Jeſus Chriſt</hi> and his <hi>Apoſtles,</hi> and from their firſt <hi>Succeſſors.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>That cannot be, Sir, for your Miniſters came not that way; they are without <hi>Succeſſion,</hi> or any lawful <hi>Call;</hi> and they have either made themſelves <hi>Pastors,</hi> or have been Ordained by the <hi>People.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Not ſo, for the greareſt part of them came from the <hi>Church of Rome,</hi> and ſo preſerv'd the <hi>Call</hi> they received there, and the reſt were <hi>confirmed</hi> and <hi>approved</hi> by them. In a word, we find that <hi>Jeſus Christ</hi> hath com<g ref="char:EOLhyphen"/>mitted to <hi>Believers</hi> the <hi>Authority</hi> of the <hi>Miniſterial Function.</hi> But you Mr. <hi>Dragon,</hi> who are ſo ſharp upon others, from whence pray do you
+<pb n="6" facs="tcp:151198:5"/>come? And from whence do you derive your <hi>Miſſion?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>From <hi>Father la Chaiſe,</hi> and from <hi>Monſieur Maimbourg,</hi> formerly a <hi>Je<g ref="char:EOLhyphen"/>ſuit,</hi> and from the whole Body of the <hi>Clergy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>But, Sir, the perſons you name are no <hi>Dragons;</hi> and a <hi>Dragon</hi> muſt deſcend in a right Line from another <hi>Dragon;</hi> as amongſt you, a <hi>Prieſt</hi> derives his <hi>Authority</hi> from a <hi>Prieſt,</hi> and a <hi>Biſhop</hi> from a <hi>Biſhop.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Alas, Sir, you are miſtaken, there are more <hi>Devils</hi> and <hi>Dragons</hi> than I; foraſmuch as they are the <hi>Maſter-Dragons,</hi> and the Princes of <hi>Dra<g ref="char:EOLhyphen"/>gons;</hi> and for us, we do nothing but by Vertue of their <hi>Miſſion,</hi> and by the <hi>Spirit</hi> and <hi>Authority</hi> they communicate unto us. <hi>Lewis</hi> the Great, is he not the Head of the <hi>Gallican Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>As for that, what you pleaſe, Sir; but in the mean time, behold here a new kind of <hi>Miſſion,</hi> and a <hi>Call</hi> ſo altogether extraordinary, that I think you are obliged to prove and confirm it by ſome <hi>Miracle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>And ſo we do every day; and what is more, I do intend to work a <hi>Miracle</hi> here in your preſence, yea upon your own perſon.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>How ſo?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Why, the <hi>Miracle</hi> is this; That I ſhall aſſuredly make a <hi>Catholick</hi> of you in ſpight of your Teeth, and make you go to <hi>Maſs,</hi> notwithſtanding all the reſiſtance you can make to the contrary. Theſe, Sir, are our <hi>Mi<g ref="char:EOLhyphen"/>racles</hi> altogether <hi>unknown</hi> and <hi>unheard</hi> of till now, and which far ſurpaſs thoſe of <hi>Jeſus Christ</hi> and his <hi>Apoſtles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>The <hi>Prodigies</hi> you ſpeak of are a ſort of <hi>Miracles</hi> indeed, but ſuch as derive from the <hi>Red Dragon,</hi> from whom you hold your <hi>Miſſion,</hi> and you are thoſe <hi>Waters which he caſts forth after the Woman that fleeth into the De<g ref="char:EOLhyphen"/>ſert.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Fair and ſoftly, Sir, I pray,; you take too much liberty. Do you know of whom, and to whom you ſpeak? When you ſpeak to a <hi>Dragon,</hi> and of the King of <hi>Dragons, the greateſt King upon Earth, yea the God of this World:</hi> You ought to ſpeak with the greateſt Reſpect imaginable. And, Sir, I tell you once more to your Teeth, that I will convert you in ſpight of you. We have already drawn down and caſt headlong into our <hi>Bot<g ref="char:EOLhyphen"/>tomleſs Pit</hi> the third part of the <hi>Stars</hi> in the <hi>Huguenot Heaven,</hi> and ſhall you think to <hi>reſiſt us?</hi> No, Sir, know you muſt come down thither as well as the reſt: for it is written, <hi>That the Beast,</hi> that is, a <hi>Dragon-King</hi> (accord<g ref="char:EOLhyphen"/>ing to the language of St. <hi>John</hi>) <hi>who ariſeth out of the bottomleſs Pit, ſhall make war with the Witneſſes of the Goſpel, and ſhall overcome and ſlay them.</hi> Don't you already ſee the <hi>execution</hi> of this <hi>Sentence?</hi> Don't you ſee their <hi>dead bodies lying in the Streets of our great City?</hi> For indeed there is no more <hi>life</hi> in them, and they are no more than <hi>dead Carkaſes.</hi>
+               </p>
+            </sp>
+            <pb n="7" facs="tcp:151198:5"/>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Alas, Sir, this pitiful and frightful <hi>Spectacle</hi> makes me melt in Tears; and would to God you had only ſlain the <hi>bodies of your Enemies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Our great Maſter and King reſembles God in this, and we, as well as he, <hi>kill both Body and Soul together.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>If you would be pleas'd to proſecute the Hiſtory of the <hi>Deſtiny</hi> of thoſe <hi>dead Witneſſes,</hi> you ſhall find that after three daies the <hi>Spirit of Life</hi> ſhall re-enter into them, and that they ſhall ariſe from the Ground where they now <hi>lie ſlain.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>O, Sir, the meaning of that is, That of bad <hi>Catholicks</hi> and <hi>Hypocrites</hi> as they are now, they ſhall become <hi>true</hi> and <hi>zealous Catholicks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I believe the ſame, but not in your ſenſe.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Well, I think we have now diſputed enough of <hi>Conſcience,</hi> and that you cannot but be cleared of all your <hi>Scruples;</hi> think therefore of <hi>Con<g ref="char:EOLhyphen"/>verting your ſelf,</hi> and that without <hi>delay.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>In the Name of God, Sir, do not go about to force me to betray my <hi>Conſcience,</hi> nor to bend my <hi>Knees</hi> before the <hi>Calves</hi> of <hi>Dan</hi> and <hi>Bethel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>You are a Fool to talk ſo, I don't deſire you to Worſhip any thing but the <hi>Holy Sacrament,</hi> which I am ſure is neither <hi>Cow</hi> nor <hi>Calf.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>But it is <hi>Bread,</hi> and <hi>Bread</hi> is inferiour to a <hi>Calf,</hi> foraſmuch as it is a living Creature.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I grant it, but the <hi>Calves</hi> of <hi>Dan</hi> were Gold or Braſs, or ſome other like matter, and <hi>Bread</hi> is better than all that.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>You would then have me to Worſhip <hi>Bread.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Not at all, but the <hi>Body</hi> of <hi>J. C.</hi> hid in the <hi>Bread,</hi> or in the <hi>preſence of Bread,</hi> which Bread is the <hi>Image</hi> or <hi>Symbol</hi> of the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>But ſtill if it be no more than Bread, I cannot Worſhip meer Bread.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>You muſt <hi>believe,</hi> and firmly imprint in your <hi>Imagination</hi> that the <hi>Body of Chriſt</hi> is there; and in caſe you have not command enough over your <hi>own Spirit</hi> to make it <hi>believe this,</hi> then you may adore <hi>J. C.</hi> whilſt you proſtrate your ſelf before the <hi>Sacrament,</hi> in like manner as you might do at the ſight of a <hi>Crucifix.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>If I might be ſuffered to declare and proteſt, that I Worſhip nei<g ref="char:EOLhyphen"/>ther the <hi>Bread</hi> nor the <hi>Wine</hi> in the <hi>Sacrament,</hi> and that I don't believe that <hi>Chriſt</hi> in his <hi>proper ſubstance</hi> is hid in them, I ſhould make no difficulty of doing what you ſay.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>If that be all that hinders you to become one of us, the buſineſs is done: Go to, Sir, <hi>I</hi> give you leave to <hi>declare</hi> and <hi>proteſt</hi> what you pleaſe, provided you be no longer <hi>Huguenot</hi> or <hi>Schiſmatick.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ay, Sir, it were well if the <hi>Biſhops</hi> were of as eaſie a <hi>temper</hi> and
+<pb n="8" facs="tcp:151198:6"/>
+                  <hi>compoſition</hi> as you are, but without <hi>that</hi> nothing can be expected.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I dare engage my word all this will be granted you, upon condition you'l but go to <hi>Maſs,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>
+                  <hi>I</hi> cannot believe that, for after all their promiſing and permitting us whatſoever we demand, they will have us believe <hi>all</hi> the <hi>Church believes,</hi> and that without exception.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>You are miſtaken, Sir, they have ſomething elſe to do than to trou<g ref="char:EOLhyphen"/>ble themſelves about what you <hi>believe,</hi> or not <hi>believe;</hi> they are ſatisſied when you only tell them you do <hi>believe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Foraſmuch as <hi>I</hi> can perceive then, the <hi>Thing</hi> required of us, is, that we be <hi>Lyars</hi> and <hi>Hypocrites.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>I</hi> can't ſay anything to that, but at the moſt, it it but a Trifle and meer Formality, and deſerves not that you ſhould ſo ſubtilly canvaſs it. Beſides, we are ſufficiently convinc'd, that when you ſay you <hi>believe,</hi> you do not ſpeak <hi>the truth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Why, that is the thing which ſo much the more ſurprizeth me; for if it be ſo, you are altogether <hi>inexcuſable,</hi> in obliging us to make <hi>De<g ref="char:EOLhyphen"/>clarations,</hi> which you know are only made from the Teeth outward, and we cannot <hi>but ſin</hi> in making thoſe <hi>Declarations,</hi> under what <hi>pretext</hi> ſoever, for in doing ſo, we deny the <hi>Truth,</hi> and betray our <hi>Conſcience.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Well, and what if you do? Do not the moſt part of your <hi>Miniſters</hi> ſign the <hi>Confeſſion of Faith</hi> of your <hi>Churches,</hi> and the <hi>Synod of Dort,</hi> yet without <hi>believing all</hi> that is contained in the ſame; yea notwithſtanding that they are for <hi>usniverſal Redemption,</hi> or <hi>Arminians,</hi> or even <hi>Socinians</hi> alſo.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>
+                  <hi>I</hi> can ſcarcely believe what you tell me: But beſides, Sir, it is the <hi>Law of God</hi> which alone muſt be the <hi>Rule</hi> of our <hi>Actions,</hi> and not the <hi>Ex<g ref="char:EOLhyphen"/>amples</hi> or <hi>Conduct</hi> of Men.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Sir, <hi>I</hi> muſt return upon you as before, that you ſtick at a <hi>meer Ni<g ref="char:EOLhyphen"/>city</hi> and <hi>Formality;</hi> for my part <hi>I</hi> ſhould be loath for ſo ſmall a matter to hazard my <hi>Eſtate,</hi> my <hi>Honour,</hi> and my <hi>Life</hi> to boot.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>You argue very politickly, but a <hi>Chriſtian</hi> muſt not reaſon ſo: Our Lord doth not permit us to do the <hi>least evil,</hi> that <hi>good may come of it.</hi> Be<g ref="char:EOLhyphen"/>ſides, there are many other things in your <hi>Maſs</hi> which are a great offence to me: As firſt it is <hi>Celebrated</hi> in a <hi>Tongue I</hi> don't underſtand, and ſuppoſe <hi>I</hi> d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d underſtand ſomething of it, moſt of the people underſtand no <hi>Latin</hi> at all. The <hi>Saints</hi> are <hi>Invocated,</hi> and <hi>God</hi> is prayed unto, with the <hi>Inter<g ref="char:EOLhyphen"/>vention</hi> of their <hi>Merits,</hi> which are put into <hi>conjunction</hi> with thoſe of <hi>J, C.</hi> and yet we know that <hi>J. C.</hi> alone is our <hi>Mediator, Advocate</hi> and <hi>Interceſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> with God, and that it is by him <hi>alone</hi> and his <hi>Merits,</hi> that we have Ac<g ref="char:EOLhyphen"/>ceſs
+<pb n="9" facs="tcp:151198:6"/>to the throne of Grace. The greateſt Saints that ever were, have ſtood in need of this interceſſion, and have been ſaved by it alone: And if this was not ſo, yet what reaſon have we to pray to thoſe that are dead, who neither ſee nor hear us, as being out of the Commerce of this World, and far removed from us. Moreover your Maſs is a Sacrilegious Communion, for the Aſſiſtants are invited to it, but upon Condition that they do not preſent themſelves to Receive, and to thoſe that do pre<g ref="char:EOLhyphen"/>ſent themſelves, they give only the one half of what <hi>J. C.</hi> commands ſhould be given and taken. In a word there is no going to Maſs without kneeling, or ſeeing others kneel before Images; which is a thing expreſly for bid by the divine Law. Now if any one be preſent at Maſs, he muſt either do all theſe things himſelf, or at leaſt partake with the Sins of thoſe that do them.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>That the <hi>Latin</hi> uſed in the Maſs may be no rub in your way, it will be tranſlated into <hi>French,</hi> for the uſe of the People: Nay it is promi<g ref="char:EOLhyphen"/>ſed that the Maſs ſhall be publickly celebrated in our Mother Tongue to comply with your weakneſs; and as for Prayers addreſſed to Saints, if they do no good, at leaſt they do no hurt, and all other things in the Maſs which may offend pious and tender Ears will be altered; nay more, it is promiſed that the Cup ſhall be given to thoſe who demand it, provi<g ref="char:EOLhyphen"/>ded always, that none be ſo bold to demand it on his own private Autho<g ref="char:EOLhyphen"/>rity. I'll ſuppoſe with you that it is an unjuſt thing to refuſe the Cup to the Laity; however, ſuffer it as a piece of injuſtice and oppeſſion; are you to anſwer for the Sins of your Superiors? Celebrate the Lords Supper if you pleaſe in your own Houſes, but do it ſo as the Curate may not perceive it, for otherwiſe we ſhould be charged with a ſecond <hi>Miſſion</hi> to perfect your holy Converſion. What you alledge of Images offends me as well as you, and I could wiſh I had Orders to rid the Church of them, as I have to clear your Houſe of whatſoever is good to eat, drink, or make mony of, which if I had, I proteſt to you, I would ſoon diſlodge them all, without ſparing ſo much as one of them; wherefore in the mean time to free one ſelf from the Guilt of this Idolatry, it is enough to inveigh againſt Ima<g ref="char:EOLhyphen"/>ges, and as far as lyes in our Power to bring them into diſlike and deteſta<g ref="char:EOLhyphen"/>tion with others, and more than this you are not oblig'd to. See there Sr (if I miſtake not) all your ſcruples removed, and doubts reſolved; I hope therefore you are ready and willing now to become a Catholick?</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>You take them away indeed very much like a Cavilier, but let me tell you, not at all like a Chriſtian.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Well I have no more to ſay to you; and therefore do ſummon you once more in the Name of the King my Maſter to become a Catholick. <hi>What do you believe his Majeſty is damn'd?</hi>
+               </p>
+            </sp>
+            <pb n="10" facs="tcp:151198:7"/>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Pray Sir don't turn your diſcourſe that way; if you were in <hi>Turky,</hi> and that a <hi>Turk</hi> ſhould beſpeak you to become a <hi>Muſulman,</hi> with this Em<g ref="char:EOLhyphen"/>phaſis, <hi>what do you think his Highneſs is damn'd?</hi> would you be pleaſed with this Diſcourſe? The King believes he does well in following the Re<g ref="char:EOLhyphen"/>ligion he profeſſeth; and as for me, I ſhould think I ſin'd if I follow'd the ſame, or profeſſed the ſame againſt my Conſcience. Pray Sir, would you your ſelf be willing, that others ſhould force you to become an <hi>Huguenot</hi> in ſpite of your Teeth?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Alas Sir how good and ſimple you are! as for our parts we are for any thing that pleaſeth the <hi>King, and if the Great</hi> Lewis <hi>would think fit to embrace the</hi> Alcoran, <hi>we would readily comply with it; we blindly follow the Or<g ref="char:EOLhyphen"/>ders and Will of that</hi> Auguſt Monarch, <hi>who is as infallible as either his Father or his Mother;</hi> for he is the eldeſt Son of the Holy Father the <hi>Pope,</hi> and the Holy Mother the <hi>Church,</hi> and he ſhall be ſo in ſpite of all thoſe that envy him, be it <hi>Flemings, Hollanders, Engliſh, Germans,</hi> booted, ſpur'd, arm'd, <hi>Cap a Pie,</hi> or whoſoever elſe you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>All theſe Titles are denyed him in all other Parts, except here in <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>No matter for that, we are in <hi>France,</hi> and do not trouble our ſelves about Strangers: But enough of this diſcourſing, I ſummon you a third time in the Name of the King to become a Catholick.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>I have been ſo long ſince.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Roman</hi> Catholick, I mean.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Is it not enough then, to be a Catholick?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>No, you muſt be a <hi>Roman</hi> Catholick; and I have Orders to make all of your Houſe to become <hi>Roman</hi> Catholicks, beginning with you, and ending with the <hi>Dag</hi> and <hi>Cat,</hi> which we will bring along to Maſs, that they may keep you company there, but you ſhall march firſt at the head of them.</p>
+            </sp>
+            <stage>The Gentleman endeavours to make his Eſcape.</stage>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Whither do you think to flee, you muſt obey either willingly or by force. Hither Comrades, come help to bind this obſtinate Heritick, I think the Devil is in him, pray caſt abundance of <hi>Holy Water</hi> upon him, let the holy Father <hi>Mogileon</hi> be ſent for, the ſpiritual and carnal Fa<g ref="char:EOLhyphen"/>ther of ſo many Children in <hi>France,</hi> and out of <hi>France,</hi> and who knows how to exorciſe the <hi>Magdalens</hi> of this Age, better than any <hi>Auſtin</hi> Fryar or <hi>Carmelite</hi> in Europe.</p>
+            </sp>
+            <pb n="11" facs="tcp:151198:7"/>
+            <stage>
+               <hi>The R. Father</hi> Mogileon, <hi>enters with a ſprinkling Bruſh in his right Hand, a Stole aboue his Neck, and a Book of Exorciſutes in his left Hand.</hi>
+            </stage>
+            <sp>
+               <speaker>F.</speaker>
+               <p>
+                  <hi>Mogil.</hi> I exorciſe thee Creature <hi>Huguenot,</hi> by the H. God by the true God, by the living God, and by him who ſhall come to judg the World by Fire; unclean Spirits of <hi>Luther,</hi> of <hi>Zuinglius,</hi> of <hi>Calvin,</hi> and of <hi>Beza,</hi> who art come hither through the Woods and Forreſts of <hi>Germany,</hi> over the Mountains of the <hi>Alpes,</hi> the Rocks of <hi>Switſer</hi>-land, the Vallys of <hi>Luzer<g ref="char:EOLhyphen"/>ne</hi> and <hi>Agronne,</hi> and the peſtilent Lake of <hi>Geneva;</hi> Spirit of Schiſm, Sedi<g ref="char:EOLhyphen"/>tion, and Apoſtacy, depart at this very inſtant out of this Body, deſign'd to be fill'd with the Holy Spirit which proceeds from his Holyneſs, which ſpeaks nothing of it ſelf, and inſpires nothing but what his Author plea<g ref="char:EOLhyphen"/>ſeth: A Spirit, who, when it pleaſeth him, walks on the <hi>Ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er,</hi> the <hi>Pau,</hi> and the <hi>Theſin,</hi> goes a Foot, rides on Horſe-back, in a Coach, or in a Cha<g ref="char:EOLhyphen"/>riot, may be ſhut up in a Portmantle, a Packet of Letters, or any thing you pleaſe; Spirit of Submiſſion, of Faith, and of Blind Obedience; Spirit <hi>Roman</hi> Catholick, enter thou into this Body and Soul, poſſeſſed by the Devil of <hi>Calviniſm,</hi> in the Name of St. <hi>Francis,</hi> of St. <hi>Dominick,</hi> and of the Patriarch <hi>Ignatius Loyola.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ah Sirs, caſt as much Holy Water as you pleaſe upon, me but don't beat me with the Sprinkler.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>We do this, that the Water may the better enter into your Body, and extinguiſh the Fire of Hereſy.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Nay if you be reſolved to kill me with blows, at leaſt let me not languiſh under your hands, but diſpatch me forthwith I beg of you.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Not ſo, we are forbid to kill you; but we ſhall ſo plague you, if you be not preſently converted, that Death will ſeem ſweet to you in compariſon of the Sufferings we are prepareing for you.</p>
+            </sp>
+            <stage>They place the Gentleman before agreat Fire, and hold his feet to the burning Flames, and ſo burn them by degrees; the violence of which Suffering, makes him fall from himſelf, bringing him to the fire again, they demand of him, whither he be willing to go to Maſs.</stage>
+            <sp>
+               <speaker>D.</speaker>
+               <p>What, are not you yet converted? and will not you go to Maſs.</p>
+            </sp>
+            <pb n="12" facs="tcp:151198:8"/>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Ah Sirs! how would you have me to go, now you have burnt my Feet and Legs?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>We will either carry you, or cauſe you to be carryed.</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>O Lord <hi>Jeſu</hi> have pitty on me and ſtrengthen me.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I find we muſt once more approach you to the Flame, that you may be more enlightned.</p>
+            </sp>
+            <stage>They bring him to the Fire as before, and begin again to burn his Feet, he faints under the extremity of the Torture and, ſaith:</stage>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Take me away and do with my Body whatſoever you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>What? ſhall we carry you to Maſs?</p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Whither you pleaſe, to a <hi>Moſque</hi> if you think good.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Did not I tell you I would do a Miracle here, and that I would convert you whither you would or no. The Glory of all be render'd to the <hi>Great King of Dragons,</hi> to his <hi>Holy Father Confeſſor,</hi> and all other Su<g ref="char:EOLhyphen"/>bordinate Inſtruments in this Great Work.</p>
+            </sp>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:151198:8"/>
+            <head>A LETTER OF <hi>MONSIE<g ref="char:V">Ʋ</g>R J<g ref="char:V">Ʋ</g>RIE<g ref="char:V">Ʋ</g>,</hi> To a <hi>French</hi> GENTLEMAN, Upon his Changing his RELIGION.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have been ſo afflicted and aſtoniſhed with the ſtroak of your <hi>Fall,</hi> that tho' I feel my ſelf obliged to reach you my hand for to raiſe you again, yet have I not been at liberty to do it till now. I begin only a little to recover my ſelf from my Aſtoniſhment, but my Affliction ſtill continues, and will, till you return from whence you have gone aſtray. I know, Sir, that you have been ſurprized, and that for your overthrow there hath been employed the Name, the Orders, and Soveraign Power of the King, the Ability, the Careſſes, the Inſtances, and the Authority of his greateſt Miniſters; the Numbers, the Force, the Quartering, and Havocking of Souldiers; the Diſguiſements, condeſcention, and credit of the moſt fa<g ref="char:EOLhyphen"/>mous <hi>Prelates;</hi> the example of Cities, and whole Provinces: And laſt of all, the faireſt promiſes, and the moſt terrible threats: and that beſides all theſe, you have flatter'd your ſelf with many other thoughts, not ne<g ref="char:EOLhyphen"/>ceſſary for me to dive into. And indeed upon the review of all theſe, it is no more a matter of ſo great aſtoniſhment to me, that ſuch a throng of extraordinary Objects have ſurprized and daſht you out of Countenance; a leſs, thing often does it: But now that your ſurprize and terrour ought to have ceaſed, you ought alſo to recover your ſelf from the diſorder into which they have caſt you.</p>
+            <p>Let us, Sir, in cold blood and at leiſure, conſider a while and take a view of the Religion you have forſaken, and of that which you have newly embraced: That which you have forſaken, acknowledges no other Fa<g ref="char:EOLhyphen"/>ther but God, nor other Head beſides Jeſus Chriſt, nor other Spirit but
+<pb n="14" facs="tcp:151198:9"/>that of the Father, and the Eternal Son. The onely Object of all its De<g ref="char:EOLhyphen"/>votions, of its Faith, Love, Hope, and acknowledgment; the onely Source and foundation of its Joy and Salvation, is the ſaid ever bleſſed and adorable <hi>Trinity.</hi> It hath no other Rule of its Doctrine, Maxims, and Conduct, but the <hi>Holy Scripture.</hi> Its Miniſters attribute no other power to themſelves, except that of <hi>Teaching the Goſpel,</hi> and to preſs the Obſer<g ref="char:EOLhyphen"/>vance of it by their Word and Examples, as meer <hi>Teachers</hi> and <hi>Directors,</hi> without pretending to any power over the Conſciences, Bodies or Eſtates of their <hi>Diſciples:</hi> Nay, more than that, recommending very carefully to them, to examine whatſoever they hold forth to them by the Rule of <hi>Ho<g ref="char:EOLhyphen"/>ly Scripture,</hi> and forbidding to believe them any further, than they find them conform to the ſame. To this purpoſe they neither ſpeak them<g ref="char:EOLhyphen"/>ſelves, nor make God ſpeak to his People, but in a known Language, and with all their might continually preſs the reading and ſtudy of the <hi>Holy Word.</hi> In a word, the Religion you have renounced, is nothing elſe but the ſincere and true Profeſſion of the Goſpel.</p>
+            <p>That which you have now embraced is quite of another <hi>Nature;</hi> for to give you a <hi>Draught</hi> of it in little, It is a <hi>Religion</hi> of which the <hi>Pope</hi> is <hi>Father</hi> and <hi>Head;</hi> and <hi>Rome</hi> the <hi>Mother</hi> and <hi>Nurſe; Concupiſcence</hi> its <hi>Spirit</hi> and <hi>Heart,</hi> a <hi>Wafer</hi> its <hi>God,</hi> the <hi>Worſhip of Creatures</hi> its <hi>Devotion,</hi> its <hi>own Authority</hi> the <hi>higheſt Law;</hi> whoſe <hi>Miniſters</hi> are <hi>Lords</hi> and <hi>abſolute Princes,</hi> and its <hi>Votaries</hi> ſo many <hi>Slaves</hi> which are continued in Slavery, by hiding the <hi>Law of God</hi> from them, by ſpeaking to them in a <hi>Barbarous Tongue,</hi> by preſcribing to them a <hi>ſuperſtitious Worſhip,</hi> and frighting them with the <hi>Fantaſmes</hi> of this World, and that which is to come. And to ſpeak to you more frankly, and to call things by their own Names; the <hi>Father, Bride<g ref="char:EOLhyphen"/>groom,</hi> and <hi>Head of the Church of Rome</hi> is the <hi>Antichriſt;</hi> her <hi>Mother</hi> is <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> and <hi>her Spirit,</hi> is the <hi>Spirit</hi> of <hi>Lyes,</hi> of <hi>Murder,</hi> and <hi>impure Luſts;</hi> her <hi>God</hi> is an <hi>Idol,</hi> her <hi>Worſhip Idolatry,</hi> her <hi>Soveraign Power, Tyranny,</hi> her <hi>Mi<g ref="char:EOLhyphen"/>niſters, Tyrants,</hi> and her <hi>Votaries</hi> ſo many <hi>unhappy Wretches,</hi> whoſe Liber<g ref="char:EOLhyphen"/>ty, Repoſe, Eſtates, yea Bodies and Souls are ſacrificed to that Cruel and Inſatiable <hi>Beaſt of the Revelation.</hi>
+            </p>
+            <p>The Bounds I have ſet my ſelf of keeping within the narrow compaſs of a Letter, will not allow me to enter upon any ample Demonſtrations, and large Deductions of what I have juſt now in few words hinted; yet they leave me room enough to convince you, if any love of <hi>Truth,</hi> or de<g ref="char:EOLhyphen"/>ſire of your own <hi>Salvation</hi> be left with you.</p>
+            <p>I take or granted as an avowed <hi>Truth,</hi> that the <hi>Pope is the Head and Father of the Church of Rome,</hi> wherefore nothing remains for me to prove, but that <hi>He is the Antichrist;</hi> and this I'le endeavour with this one Argu<g ref="char:EOLhyphen"/>ment.
+<pb n="15" facs="tcp:151198:9"/>which contains as many more as it conſiſts of Parts, and is of un<g ref="char:EOLhyphen"/>queſtionable <hi>Truth.</hi> If the Characters which the <hi>Holy Scripture</hi> gives us of <hi>Antichrist,</hi> do agree with and meet in the <hi>Pope,</hi> it is evident that he is <hi>Antichrist.</hi> This we will enquire into as briefly as may be.</p>
+            <p>The firſt Character which the <hi>Holy Scripture</hi> gives us of <hi>Antichrist,</hi> is, <hi>That he ſhould depart and apostatize from the Faith, and addict himſelf to ſedu<g ref="char:EOLhyphen"/>cing Spirits, and to Doctrines of Devils:</hi> That he ſhould <hi>teach Lyes in hypo<g ref="char:EOLhyphen"/>criſie, having his Conſcience feared with an hot Iron; forbidding to marry, and commanding to abstain from meats,</hi> 1 Tim. 4. 2 <hi>Theſ.</hi> 2.3. All which is ful<g ref="char:EOLhyphen"/>filled according to the <hi>Letter,</hi> in the Perſon and Conduct of the <hi>Pope.</hi> He is departed from the Faith and ſound Doctrine, and hath made others go aſtray from the ſome by himſelf and other Deceivers he hath employed. In ſtead of the Truth, he hath taught Lyes; and all this in Hypocriſie; <hi>i. e.</hi> Under the Name and Cloak of Godlineſs and Religion. For this <hi>Im<g ref="char:EOLhyphen"/>postor</hi> attributes to himſelf the Title, Authority and Priviledge of a faith<g ref="char:EOLhyphen"/>ful Miniſter of God: He does nothing (if we will believe him) but for advancing of the Divine Glory, and the Salvation of Souls: He makes a great ſhew of being for <hi>Jeſus Christ,</hi> and ſeeking nothing but his King<g ref="char:EOLhyphen"/>dom: He hath the <hi>Horns of the Lamb,</hi> and takes to himſelf his Autho<g ref="char:EOLhyphen"/>rity, his Office, and Glory; but he hath the <hi>Voice of the Dragon.</hi> His word is like that of the Devil, falſe, deceitful, proud, and murderous: His whole Conduct and behaviour of himſelf, is a <hi>Mystery,</hi> but a <hi>Mystery of Iniquity:</hi> a Myſtery in appearance, but Iniquity indeed and in truth: His <hi>Conſcience</hi> is <hi>ſeared</hi> with an <hi>hot Iron;</hi> that is, He is inſenſible of the Checks of it, and hardned in all manner of ſin: He forbids <hi>Marriage,</hi> and com<g ref="char:EOLhyphen"/>mands to abſtain from <hi>Meats which God hath bleſſed.</hi>
+            </p>
+            <p>The ſecond Character of Antichriſt, is, <hi>The Man of ſin,</hi> 2 Theſ. 2.3. This alſo fits the <hi>Pope;</hi> and to be convinced of it, you need only to read the Hiſtory of their <hi>Lives,</hi> writ by <hi>Papists</hi> themſelves; you'l find there, that there is no Vice, which they have not made profeſſion of, nor Crime, which they have not committed; yea, what is more, taught and authorized, not only by their Examples, but alſo by their Diſpenſations and Indulgences, and by the <hi>Tax</hi> and <hi>Rate-Book</hi> they have made of the particular Sums of Money payable to the <hi>Apostolick Chancery</hi> for the <hi>Pardon of every ſin.</hi> And laſtly, alſo by hiis <hi>Emiſſaries,</hi> ſuch as are the <hi>Monks,</hi> and above all the <hi>Jeſuits,</hi> who as they have over-turn'd the <hi>Goſpel,</hi> by oppoſing the <hi>Do<g ref="char:EOLhyphen"/>ctrine of Grace,</hi> ſo have they alſo annull'd the <hi>Commands of the Law,</hi> by the Maxims of their <hi>New-found Morality.</hi>
+            </p>
+            <p n="3">3. Antichriſt <hi>ſitteth as God in the Temple of God, and exalteth himſelf a<g ref="char:EOLhyphen"/>bove all that is called God,</hi> 2 Theſ. 2.4. That this alſo is the Character of the
+<pb n="14" facs="tcp:151198:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:151198:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:151198:11"/>
+               <hi>Pope,</hi> is plain; He extolleth himſelf above all the <hi>Church of Christ,</hi> and not only attributes to himſelf the Name of God, but alſo his Infallibility, So<g ref="char:EOLhyphen"/>veraignty, Omnipotence, and Glory, for he cauſes himſelf to be Worſhip<g ref="char:EOLhyphen"/>ped as if he were God indeed: <hi>He exalts himſelf above all that is called God;</hi> That is, above Kings and Princes, whom the Scripture calls <hi>Gods,</hi> pre<g ref="char:EOLhyphen"/>tending to be the Maſter and Diſpoſer of their Crowns and Properties; and not only ſo, but above the Gods of the <hi>Roman Church;</hi> I mean her <hi>Saints</hi> and <hi>Sainteſſes,</hi> becauſe he hath the power by his <hi>Canonization</hi> to Deifie them: above the God of the <hi>Maſs,</hi> which he can unmake at pleaſure, and his <hi>Priests</hi> alſo, by power received from him, and can make it again, when it is made, and which he cauſes to be carried on Horſeback, whilſt himſelf is carried upon the Shoulders of Princes; yea he doth even extol himſelf above the living and true God, by diſpenſing with his Laws, ab<g ref="char:EOLhyphen"/>rogating them, and making others contrary to them; and moreover by attributing to himſelf the power of doing what God can not; <hi>viz.</hi> To make <hi>Vice</hi> Vertue, and <hi>Vertue</hi> Vice, and that which is <hi>Sin,</hi> no Sin, and which is no <hi>Sin,</hi> to be Sin.</p>
+            <p>The fourth Character of <hi>Antichrist</hi> is <hi>Idolatry,</hi> Rev. 17. Which ſo exactly ſuits with the <hi>Pope,</hi> as nothing more; for his <hi>Idolatry</hi> is ſo univerſal: and crying, that it is become the Offence and Deteſtation both of Heaven and Earth, Believers and Infidels, yea of many who live in communion with him.</p>
+            <p n="5">5. <hi>Antichrist</hi> was to ſet forth a <hi>falſe Christ,</hi> and by his Doctrines con<g ref="char:EOLhyphen"/>cerning the ſame, was to over-throw the manifeſtation of <hi>Jeſus Christ</hi> in fleſh, and the Eſſential Properties of his Body and Blood, <hi>Matth.</hi> 24.23, 24. and 1 <hi>John</hi> 4.3. And does not the <hi>Pope</hi> hold forth a <hi>falſe Chriſt;</hi> viz. that in the <hi>Maſs?</hi> and doth he not attribute to Jeſus Chriſt a more fan<g ref="char:EOLhyphen"/>taſtick and falſe Body than ever <hi>Marcion</hi> did, or the reſt who have oppo<g ref="char:EOLhyphen"/>ſed his <hi>Humane Nature?</hi>
+            </p>
+            <p n="6">6. <hi>The coming of</hi> Antichriſt <hi>was to be with power and ſigns, and lying wonders.</hi> 2 Theſ. 2.9. and how many falſe Miracles hath the <hi>Pope,</hi> and doth ſtill employ for to Authorize his Errors, Superſtitions, and ungrounded Pre<g ref="char:EOLhyphen"/>tenſions?</p>
+            <p n="7">7. <hi>Antichrist</hi> alſo according to Scripture, was to be a <hi>great Merchant,</hi> dealing in all ſorts of Merchandizes, whether of this World or the other, of Heaven and of Earth, yea and of Hell too, and of the Bodies and Souls of men: For what is it which the <hi>Pope</hi> doth not either buy or ſell? What can you name which he doth not make Money of? Or what can be done with him without Money? What Trade hath he not drove with Souls, ſince they have been ſold for Money? All theſe Marks taken joyntly to<g ref="char:EOLhyphen"/>gether
+<pb n="17" facs="tcp:151198:11"/>(for they muſt not be taken apart) cannot be found in any per<g ref="char:EOLhyphen"/>ſon ſave that of the <hi>Pope</hi> onely.</p>
+            <p>We will add for the Eigth and laſt Mark, his having his Seat where <hi>Antichriſt</hi> was to have his; <hi>viz.</hi> at <hi>Babylon,</hi> and this <hi>Babylon</hi> is <hi>Rome,</hi> which is the Mother of this Religion: For it is this <hi>Woman,</hi> this <hi>great City,</hi> who <hi>reigned over the Kings of the Earth,</hi> in the time of St. <hi>John,</hi> Rev. 17.18. Which cannot be ſaid of <hi>Conſtantinople,</hi> which at that time had no ſuch dominion. This is that City <hi>ſeated upon ſeven Hills,</hi> Rev. 17.9. which is ſo clear and diſtinguiſhing a Character of <hi>Rome,</hi> that both the Ancient and Modern Doctors, not excepting the <hi>Papiſts</hi> themſelves; as <hi>Bellarmine, Baronius, Ribera, Viegas,</hi> and many others, do own and allow it as well as we.</p>
+            <p>The <hi>Antichriſtianiſme</hi> of the <hi>Pope</hi> and his Religion, doth alſo moſt evi<g ref="char:EOLhyphen"/>dently ſhine forth in the Spirit which animates that whole Body, as well as the Head of it, which is the <hi>Spirit of lying, of murder, and impurity.</hi>
+            </p>
+            <p>As for the <hi>Spirit of lyes,</hi> that reigns univerſally in the Church of <hi>Rome;</hi> this Spirit is the Father of all thoſe <hi>Errors</hi> wit which it ſwarms; the In<g ref="char:EOLhyphen"/>venter of ſo many pious Cheats, of ſo many falſe Revelations, of ſo many counterfeit Miracles, of ſo many ſuppoſititious Relicks, of ſo many fa<g ref="char:EOLhyphen"/>bulous Stories and Legends, which are ſo ſolemnly and ſeriouſly expoſed there, and of ſo many Gulls and Cheats, as ſhe puts upon her new Con<g ref="char:EOLhyphen"/>verts. The ſame Spirit is the Author of ſo many horrible Slanders where<g ref="char:EOLhyphen"/>with they blacken the Church of God, and his faithful Servants: It is he hath eſtabliſht that Maxim, That <hi>Faith is not to be kept with Hereticks;</hi> that <hi>Equivocations and mental Reſervations are lawful;</hi> and that the <hi>Pope hath power to diſpenſe with the moſt inviolable Oaths</hi> that may be. From the ſame Source have been derived all thoſe <hi>Perfidious dealings with the Pro<g ref="char:EOLhyphen"/>teſtants</hi> in <hi>France,</hi> by Repealing the moſt ſolemnly ſworn and ratified E<g ref="char:EOLhyphen"/>dicts, and by publiſhing others quite contrary to them.</p>
+            <p>Neither is the <hi>Spirit of Cruelty and Murther</hi> leſs in vogue in the ſaid Church: Who can enumerate all the Barbarous Cruelties committed by the <hi>Holy Office</hi> of the <hi>Inquiſition;</hi> (as they are not aſhamed to call it) the bloody Wars, Maſſacres, Poyſonings, Aſſaſſinations, and Butcheries which that Religion hath, and ſtill doth put in practice in the four parts of the World; or thoſe only ſhe hath been the Author of in <hi>Germany, Bohemia, Hungaria, France,</hi> the <hi>Low Countries, England, Scotland, Ireland,</hi> and <hi>Italy?</hi> The <hi>Proteſtants</hi> of <hi>France</hi> formerly have been, and are now at preſent a moſt ſad and convincing Inſtance of this Truth. The Cruelty of this Religion appears alſo by her condemning to Hell univerſally all other Chriſtian Communions whatſoever, and in that there is not the leaſt
+<pb n="18" facs="tcp:151198:12"/>Article ſhe profeſſes, to which ſhe hath not annexed an Eternal <hi>Anathema</hi> againſt all thoſe who ſhall dare to contradict or deny it.</p>
+            <p>And for the <hi>Spirit of Impurity,</hi> it hath ſo perfectly got the Maſtery and Dominion over that Churche, that it even reigns in thoſe places, which one would believe, ſhould be the Refuge of ſhamefac'dneſs and Chaſtity; I mean even in <hi>Rome</hi> the <hi>Holy,</hi> and throughout the whole Patrimony of the Church, in their places for Confeſſion, in their Mon aſteries of the one as well as the other Sex; in the habitations of their <hi>Clergy</hi> throughout whole <hi>Spain,</hi> which is ſo Emphatically Catholick, and throughout whole <hi>Italy,</hi> which one would think, ſhould not approve nor tolerate any ſuch filthineſs, as being the own. Country and Seat of the <hi>Holy Father,</hi> and his <hi>Holy Court.</hi> And that no man may here alledge that theſe Diſorders are not Authorized nor approved of; it is moſt notorious that the <hi>Pope</hi> draws a yearly Revenue from the Publick <hi>Stews</hi> which are ſolemnly eſta<g ref="char:EOLhyphen"/>bliſhed in all the Cities of his Dominion; that the <hi>Caſuiſts</hi> even the moſt famous and of greateſt Authority with that Communion, do favour the practice of the moſt deteſtable and unnatural filthineſs, which the Spirit of Uncleanneſs can poſſibly ſuggeſt to men; yea all the Popiſh Divines do declare with a loud voice, that it is better for their <hi>Clergy</hi> to burn in the fire of all ſorts of Uncleanneſs, than to be Married.</p>
+            <p>But this Communion is not only guilty of <hi>Corporal filthineſs</hi> and <hi>impu<g ref="char:EOLhyphen"/>rity,</hi> but alſo of that which is <hi>Spiritual,</hi> that is, <hi>Idolatry:</hi> For according to what was ſaid before, the very God of that Religion is an <hi>Idol.</hi> What God is it which ſhe ſerves? and to the Worſhip of which ſhe will com<g ref="char:EOLhyphen"/>pel and force the whole Earth? To whom doth ſhe Erect her <hi>Altars,</hi> Conſecrate her <hi>Festivals,</hi> her <hi>Offerings,</hi> her <hi>Vows</hi> and <hi>Prayers?</hi> To whom doth ſhe betake her ſelf upon all occaſions, whether Ordinary, or Extra<g ref="char:EOLhyphen"/>ordinary? To whom doth ſhe addreſs her moſt <hi>ſolemn Adorations?</hi> Is it not to the God of the <hi>Maſs?</hi> even to a God which the <hi>Priest</hi> makes every day of a little Water and Flower, after he hath mumbled four or five Latin words over it, and which he devours after he hath made it? And this God, can it be ſuppoſed, ought elſe but an <hi>Idol?</hi> And muſt not a man be deprived of the light of Senſe, and of Reaſon, and of Faith, be<g ref="char:EOLhyphen"/>fore he can in the leaſt doubt of it?</p>
+            <p>But to convince the moſt prepoſſed of this Truth, from their own Prin<g ref="char:EOLhyphen"/>ciples; is it not agreed upon by all, that the Object of the Worſhip of true Religion cannot be doubtful or uncertain? For they are falſe Reli<g ref="char:EOLhyphen"/>gions which <hi>worſhip that which they know not,</hi> as our Lord ſaid of that of the <hi>Samaritans;</hi> and is it not true and inconteſtable, that the Object of the Worſhip of the <hi>Roman Church</hi> is uncertain and doubtful? Is any one
+<pb n="19" facs="tcp:151198:12"/>aſſured; nay, is it poſſible that any one ſhould be ſo, that <hi>J. C.</hi> is really preſent in the Species of the <hi>Euchariſt,</hi> ſince that depends upon the inten<g ref="char:EOLhyphen"/>tion of the Prieſt that celibrates Maſs, according to the expreſs deciſion of the Council of <hi>Trent.</hi> And who can be certain, that this or that Prie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t had the intention of fixing him there, or that he had it not? and ſuppo<g ref="char:EOLhyphen"/>ſing he had the intention, who can be aſſured that his intention is a<g ref="char:EOLhyphen"/>compliſhed; and that our Saviour in obedience to the ſame, hath in<g ref="char:EOLhyphen"/>deed hid himſelf under the <hi>Species</hi> of <hi>Bread</hi> and <hi>Wine?</hi> And if this <hi>Object</hi> be thus uncertain, the Religion of <hi>Rome</hi> muſt needs be ſo likewiſe. A<g ref="char:EOLhyphen"/>gain, if this <hi>Object</hi> be doubtful, it can never be the <hi>Object</hi> of <hi>Faith,</hi> nor of <hi>true Devotion;</hi> it cannot be the <hi>Deity,</hi> nor indeed any thing elſe but a <hi>meer Idol.</hi> But alas, this is not the <hi>alone Idol</hi> which <hi>Rome</hi> Adores, ſhe hath as many more of the number as there are <hi>Angels,</hi> yea <hi>Saints</hi> and <hi>Sainteſſes</hi> in Heaven, and as there are <hi>Popes, Croſſes, Images,</hi> and <hi>Relicks</hi> upon earth; for ſhe beſtows <hi>Religious Worſhip</hi> upon all theſe in the ſight and ken of the whole World; and conſequently ſhe cannot but be guilty of <hi>Idolatry,</hi> and that in ſo high a degree, that ſhe may juſtly boaſt of worſhipping the vaineſt of all <hi>Idols;</hi> for never were any more vain than her <hi>Wafers</hi> are; and of having raiſed <hi>Idolatry</hi> to that pitch, beyond which no farther advance can be expected; for there is no Inſtance in all the Records of Time, of a more tranſported and beſotted <hi>Dovotion,</hi> than that which ſhe hath for that piece of <hi>Paste.</hi>
+            </p>
+            <p>Now, tho' all this be indeed <hi>prodigious</hi> and <hi>amazing,</hi> yet behold here an<g ref="char:EOLhyphen"/>other Inſtance which is no leſs ſurprizing and unaccountable; which is, That the <hi>Romiſh Church</hi> hath erected her ſelf for an <hi>Idol</hi> and <hi>Object</hi> of her own <hi>Adoration,</hi> and which ſhe impoſeth upon others to <hi>worſhip as God:</hi> For ſhe attributes to her ſelf <hi>Infallibility,</hi> and a <hi>Soveraign Independence</hi> and <hi>Authority,</hi> Characters which are the <hi>Propriety of God alone.</hi> She impoſeth her <hi>Deciſions</hi> as ſo many <hi>Divine Oracles,</hi> and will have them received for this <hi>ſole reaſon,</hi> becauſe they ſeem good in her Eyes. She hath the boldneſs to maintain, That all the <hi>Articles of Faith</hi> depend upon her <hi>Au<g ref="char:EOLhyphen"/>thority;</hi> that it is from her we hold the <hi>Greateſt Myſteries</hi> of our <hi>Chriſtian Religion;</hi> as that of the <hi>Trinity,</hi> of the <hi>Incarnation, Grace, &amp;c.</hi> She raiſeth her <hi>Authority</hi> ſo far above that of the <hi>Holy Scriptures,</hi> that ſhe maintains the <hi>Holy Scriptures</hi> to have no other <hi>Authority</hi> but what ſhe gives to them, and that without Her, we are no more obliged to believe the <hi>Word of God,</hi> than that of <hi>Mahomet:</hi> which is <hi>Bellarmins</hi> own Compariſon. In a word, according to her Principles, I muſt not <hi>believe in God,</hi> but only upon the <hi>Faith</hi> and <hi>Credit</hi> of the <hi>Romiſh Church;</hi> that is, ſhe treats the <hi>true God,</hi> as <hi>Pagan Rome</hi> was wont to deal with her <hi>falſe ones;</hi> She makes him depend
+<pb n="20" facs="tcp:151198:13"/>upon the <hi>good-liking of Man:</hi> Yea what is more, ſhe lifts up her ſelf above God, for ſhe will be believed upon <hi>her word,</hi> but allows not that God ſhould be believed <hi>upon his:</hi> So that inſtead of thoſe words which ſo em<g ref="char:EOLhyphen"/>phatically preface many paſſages in the Prophets; <hi>Thus ſaith the Lord;</hi> we muſt put, <hi>Thus ſaith the Church.</hi> From whence it is apparent, that the <hi>Church of Rome</hi> believes in <hi>its ſelf;</hi> for if the reaſon why we are to be<g ref="char:EOLhyphen"/>lieve any thing, be not becauſe <hi>God</hi> hath ſaid it, but becauſe the <hi>Church</hi> ſaith ſo; it follows that the <hi>Church</hi> believes becauſe ſhe <hi>wills</hi> or <hi>commands</hi> her ſelf to <hi>believe,</hi> and conſequently ſhe muſt be the <hi>Foundation</hi> and <hi>Rule</hi> of her <hi>own Faith.</hi>
+            </p>
+            <p>Another thing very wonderful in this Principle of hers, is, that when any of the <hi>Members</hi> of this <hi>Communion</hi> hath a deſire to know what it is that the <hi>Church</hi> requires him to <hi>believe,</hi> he muſt content himſelf and ac<g ref="char:EOLhyphen"/>quieſce in the <hi>testimony</hi> of <hi>one ſole perſon; viz.</hi> of the <hi>Pope,</hi> a <hi>Biſhop,</hi> or his own <hi>Curate;</hi> and when any one of theſe tell him, that this is the <hi>Doctrin of the Church,</hi> he muſt acquieſce in what he hath ſaid; for if he ſhould not, there is no way remaining for his <hi>ſatisfaction,</hi> but one; <hi>viz.</hi> That the <hi>Church</hi> muſt be perpetually aſſembled in an <hi>Oecumenical Council,</hi> for to reſolve him what he ought to <hi>believe,</hi> and what not? And thus theſe Gentlemen that won't allow me to believe <hi>all the Prophets and Apostles to<g ref="char:EOLhyphen"/>gether,</hi> nay nor <hi>God himſelf ſpeaking to me in the Scriptures,</hi> yet will have me <hi>believe a ſingle Curate,</hi> or a <hi>ſingle Biſhop.</hi> And that this is their plain and full meaning, is ſo <hi>apparent,</hi> that if any particular perſon ſhould pretend to make any difficulty ſo to do, or to reject the ſlighteſt of thoſe <hi>Deciſions</hi> which his <hi>Paſtor</hi> aſſures him to be the <hi>Determinations</hi> of the <hi>Church,</hi> they would proſecute him even after his Death, and condemn him to the very <hi>Torments of Hell.</hi> And now pray tell me whether any thing can be ima<g ref="char:EOLhyphen"/>gined more <hi>Exorbitant</hi> than this <hi>Tyranny of the Church</hi> and <hi>Clergy</hi> of <hi>Rome,</hi> or any <hi>Slavery</hi> to be compared with that of her <hi>Votaries?</hi> The <hi>Canon</hi> be<g ref="char:EOLhyphen"/>ginning with theſe words; <hi>Si Papa, d.</hi> 40. <hi>c.</hi> 6. Carries this <hi>Tyranny</hi> and this <hi>Slavery</hi> to that pitch, as to affirm, <hi>That if the Pope ſhould carry the Souls of men in great flocks to the Devil, he muſt be let alone without preſuming to controll or contradict him.</hi>
+            </p>
+            <p>By vertue of this <hi>Authority</hi> it is that the <hi>Church</hi> of <hi>Rome</hi> doth ſet up and eſtabliſh new <hi>Mediators,</hi> which in a manner (ſaith <hi>Bellarmin</hi>) may be called our <hi>Redeemers;</hi> ſhe Ordains an infinite number of <hi>new Devotions,</hi> invents <hi>new Mysteries;</hi> as that of <hi>Tranſubſtantiation,</hi> a <hi>new Sacrifice</hi> of <hi>Pro<g ref="char:EOLhyphen"/>pitiation,</hi> that of the <hi>Maſs;</hi> creates a <hi>new Miniſtry,</hi> that of the <hi>Pope</hi> and his <hi>Cardinals;</hi> founds <hi>new Religions,</hi> thoſe of the ſeveral ſorts of <hi>Monks;</hi> makes <hi>new Laws,</hi> thoſe of <hi>Tradition;</hi> inſtitutes <hi>new Sacraments;</hi> viz. <hi>Con<g ref="char:EOLhyphen"/>firmation,
+<pb n="21" facs="tcp:151198:13"/>Auricular Confeſſion, Orders, Marriage,</hi> and <hi>Extream <g ref="char:V">Ʋ</g>nction.</hi> She diſpenſeth with the <hi>Laws of God,</hi> with the <hi>Obedience of Children to Parents,</hi> and of <hi>Subjects to their Princes:</hi> She adds to the <hi>Commands af God</hi> thoſe of the <hi>Church,</hi> that is <hi>her own:</hi> She takes from the <hi>Commands of God;</hi> viz. <hi>the ſecond;</hi> ſhe allows what God forbids, ſuffering <hi>publick Stews;</hi> and for<g ref="char:EOLhyphen"/>bids what God permits, in forbidding <hi>Marriage</hi> and <hi>Meats;</hi> yea what is more, ſhe commands what God expreſly forbids; <hi>viz.</hi> the <hi>worſhipping of Images,</hi> and forbids what he expreſly commands; <hi>viz.</hi> the <hi>Communion under both kinds.</hi>
+            </p>
+            <p>See here, Sir, enough to make up a Letter, and enough alſo to con<g ref="char:EOLhyphen"/>vince you of your <hi>horrible fall</hi> in quitting our <hi>Religion,</hi> and embracing that of <hi>Rome.</hi> I won't make it my task to diſpute with your Wit and Reaſon, nor before Men; Il'e only diſpute with your <hi>Conſcience,</hi> and that before God: I therefore adjure you by your <hi>Conſcience,</hi> and by God, who ſees all things, who muſt judge you one day, to anſwer me truly to ſome Que<g ref="char:EOLhyphen"/>ſtions I ſhall put to you. Are you fully ſatisfied in the <hi>Abjuration</hi> you have made? Are you throughly perſwaded in your heart (as your <hi>new Reli<g ref="char:EOLhyphen"/>gion</hi> obligeth you to be) that the <hi>Religion</hi> you have quitted, is <hi>Heretical, Schiſmatical,</hi> and <hi>Damnable;</hi> and that on the contrary, that of <hi>Rome</hi> is the <hi>onely true and ſaving Religion?</hi> Do you believe in good earneſt, that <hi>Jeſus Christ</hi> hath indeed granted to the <hi>Pope</hi> all the <hi>Authority</hi> he boaſts of and takes to himſelf? For in caſe he attributes to himſelf that which in no wiſe belongs to him, he can be no other than a <hi>falſe Paſtor,</hi> and an <hi>
+                  <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>per.</hi> Do you believe firmly that in the <hi>Maſs</hi> there is made a <hi>Tranſubſtan<g ref="char:EOLhyphen"/>tiation; viz.</hi> a change of the <hi>ſubstance of the Bread, into that of the Body of Jeſus Chriſt;</hi> and of the <hi>ſubstance of the Wine, into that of his Blood;</hi> and that he is <hi>preſent in Body and Soul</hi> in the outward <hi>ſpecies</hi> or <hi>appearance</hi> of <hi>Bread and Wine;</hi> and that he is to be <hi>adored</hi> there, tho' it be as impoſſible to be aſſured that he is there indeed, as it is to know the bottom of the heart of the <hi>Priest</hi> that Officiates, upon whoſe intention this whole <hi>My<g ref="char:EOLhyphen"/>ſtery</hi> depends, and conſequently the <hi>Faith</hi> of thoſe who believe that a <hi>Wa<g ref="char:EOLhyphen"/>fer</hi> is the <hi>true God,</hi> the <hi>Creator and Redeemer of the World?</hi> Can you poſ<g ref="char:EOLhyphen"/>ſibly be ignorant that <hi>the Pope is Antichriſt,</hi> and <hi>Rome, Babylon,</hi> and that the <hi>Spirit</hi> of both the one and the other, is the <hi>Spirit of Lyes,</hi> of <hi>Cruelty</hi> and <hi>Impurity?</hi> That the <hi>God of the Church of Rome</hi> is the <hi>God of the Maſs,</hi> and that that <hi>God is no better than an Idol,</hi> which ſhe <hi>worſhips moſt religiouſly,</hi> to<g ref="char:EOLhyphen"/>gether with an infinite number of <hi>Idols</hi> more? That the ſaid Church ac<g ref="char:EOLhyphen"/>knowledges no other <hi>Authority</hi> beſides her own; that ſhe exalts her <hi>word</hi> above that of God, and that ſhe exerciſeth a tyrannical power over the Conſciences of men? In a word, can you be ignorant that all what that
+<pb n="22" facs="tcp:151198:14"/>
+               <hi>Religion</hi> teaches different from ours (which are the very things they have particularly oblig'd you to embrace as neceſſary to <hi>Salvation</hi>) are ſo far from being contain'd in the <hi>Goſpel,</hi> that they are moſt clearly and ſtrongly condemn'd and forbid there? And can you imagine that there is any <hi>Salvation</hi> for you in the ſtate you are in, <hi>viz.</hi> that of <hi>Hypocriſie,</hi> whilſt you p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etend to <hi>believe</hi> what you do not <hi>believe,</hi> and to worſhip from your heart, and freely, when you do not do it but againſt your will, as knowing it to be <hi>Idolatry,</hi> whilſt you externally comply with all the <hi>Worſhip of the Church of Rome,</hi> ſerving with her (by the <hi>worſhip</hi> term'd <hi>Doulia,</hi> which is the word in <hi>Gal.</hi> 4.8.) thoſe things which by nature are not Gods? Have you ſo wholly forgot the <hi>Goſpel,</hi> that you do not remem<g ref="char:EOLhyphen"/>ber, that <hi>the portion of the fearful, and of thoſe who l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve or make a lye, of Id<g ref="char:EOLhyphen"/>laters and Apoſtates, is in the Lake of fire,</hi> Rev. 22.15. Matth. 10.38. Mark 8.38. Do not deceive your ſelf, by ſeeking out <hi>ſig-leaves</hi> and <hi>pretences;</hi> in abjuring our <hi>Religion,</hi> you have abjured true <hi>Chriſtianity,</hi> the <hi>pure Goſpel of Jeſus Chriſt,</hi> for our <hi>Religion is nothing elſe:</hi> You have grieved the <hi>holy Spirit,</hi> God grant you have not <hi>quite extinguiſht it;</hi> you have weakned the <hi>King<g ref="char:EOLhyphen"/>dom of God up<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n earth,</hi> and ſtrengthned <hi>that of his Enemy;</hi> you have <hi>af<g ref="char:EOLhyphen"/>flicted, ſcandalized,</hi> and made a <hi>rent in the Church of God;</hi> and you have <hi>fortified the Synagogue of Satan,</hi> and <hi>made it to rejoyce.</hi> By becoming a <hi>Papist,</hi> you have <hi>condemned your Teachers and Preachers for Schiſmaticks and Here<g ref="char:EOLhyphen"/>ticks,</hi> and have judg'd them <hi>worthy of all the fires of this world,</hi> and <hi>of that of Hell to boot:</hi> You are entred into <hi>Communion</hi> with thoſe, who but an Age ago <hi>waſhed their hands in the blood of your Fathers,</hi> and who daily do the ſame <hi>in the blood of your Brothers:</hi> You have left the <hi>Communion of Chriſt,</hi> and are gone over <hi>to that of Antichriſt;</hi> from the <hi>Church,</hi> to <hi>Babylon,</hi> from the <hi>Spirit of God,</hi> to the <hi>unclean Spirit;</hi> from the <hi>worſhip of God,</hi> to that of a <hi>Wafer,</hi> and many other <hi>Idols:</hi> You have rejected the <hi>Authority of Holy Scripture,</hi> for to ſubject your ſelf to that of <hi>Papacy;</hi> and from a <hi>Child of God,</hi> which you were, are become the <hi>Slave of men.</hi> Tremble at the thought of the <hi>ſin you have committed,</hi> and by no means excuſe it; you have to do with a God <hi>who cannot be deceived,</hi> neither will he <hi>be mocked,</hi> who is <hi>jealous of his Truth</hi> and of his <hi>Glory,</hi> and who will not endure his <hi>Truth</hi> to be <hi>detain'd in unrighteouſneſs, nor his Glory to be given to graven Images.</hi> I am ſurpriz'd with <hi>horrour,</hi> when I conſider the <hi>deplorable ſtate</hi> to which you have reduc'd your ſelf; I ſee you deſtitute of your <hi>true Bre<g ref="char:EOLhyphen"/>thren,</hi> and <hi>faithful Paſtors,</hi> and encompaſſed with <hi>falſe Brethren,</hi> and <hi>de<g ref="char:EOLhyphen"/>vouring Wolves,</hi> obſerv'd and beſet by the World, which every where lays her <hi>ſnares</hi> for you, and <hi>enchants</hi> you with her <hi>deluſions,</hi> betray'd by your <hi>own heart,</hi> tortur'd and wrackt by <hi>your Conſcience,</hi> (if a <hi>Lethargy</hi> hath
+<pb n="23" facs="tcp:151198:14"/>not ſeiz'd it) domineer'd over by your <hi>own vanity,</hi> your <hi>avarice, ſenſuali<g ref="char:EOLhyphen"/>ty</hi> and <hi>infirmity,</hi> tyranniz'd over by <hi>Clergy,</hi> by the <hi>Souldiers,</hi> by <hi>Of<g ref="char:EOLhyphen"/>ficers of Juſtice,</hi> and all your <hi>Superiours,</hi> loaden with all the <hi>Chains of Po<g ref="char:EOLhyphen"/>pery,</hi> and <hi>faſt lockt</hi> and taken in the <hi>ſnares of the Devil:</hi> I ſee you in the very way to the <hi>ſin againſt the Holy Ghoſt,</hi> upon the <hi>brink</hi> of the <hi>Grave</hi> and <hi>Hell.</hi> And had it not been better to have ſuffered a thouſand <hi>Deaths</hi> for the <hi>Cauſe of God,</hi> than <hi>cowardly</hi> to caſt your ſelf headlong into this <hi>miſerable condition</hi> by your <hi>Apoſtacy?</hi> And is it not better for you to <hi>expoſe your ſelf</hi> yet to all <hi>ſorts of dangers and miſeries,</hi> than to <hi>truckle</hi> any longer under this <hi>inſupportable burden</hi> of <hi>Evils?</hi> We offer up Day and Night moſt <hi>ardent Prayers to God, that he will be pleas'd to ſnatch you thence;</hi> and be not you wanting to employ your <hi>utmoſt endeavours</hi> to get looſe, and give your ſelf no reſt, till you have given <hi>glory to God, edified his Church,</hi> and return'd your <hi>Conſcience to that happy ſtate</hi> in which you wiſh that the <hi>Eternal Judge</hi> might find it, when you ſhall be obliged to appear before his <hi>Tribunal.</hi> Let this be your <hi>great</hi> and <hi>onely Work.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Jan. 1. 1686.</date>
+               </dateline>
+               <signed>I <hi>am</hi> SIR, <hi>Your moſt humble Servant, and moſt Sincere Friend.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
